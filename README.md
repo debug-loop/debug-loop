@@ -10,40 +10,6 @@
 <table align="center">
   <tr>
     <td align="center" width="90">
-      <img src="https://github.com/kroim/profile/blob/master/icons/icon_nft.png?raw=true" height="45" >
-      <br>NFT
-    </td>
-    <td align="center" width="90">
-      <img src="https://github.com/kroim/profile/blob/master/icons/icon_defi.png?raw=true" height="45" >
-      <br>DeFi
-    </td>
-    <td align="center" width="90">
-      <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png" width="48" height="48" alt="Ethereum" />
-      <br>Ethereum
-    </td>
-    <td align="center" width="90">
-      <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png" width="48" height="48" style="border-radius: 15px;" alt="Solana" />
-      <br>Solana
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=solidity" width="45" height="45" alt="Solidity" />
-      <br>Solidity
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=rust" width="45" height="45" alt="Rust" />
-      <br>Rust
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="55" height="55" />
-      <br>Python
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
       <br>React
     </td>
@@ -98,8 +64,8 @@
       <br>Laravel
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=flutter" width="45" height="45" alt="Flutter" />
-      <br>Flutter
+      <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="55" height="55" />
+      <br>Webpack
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
@@ -108,6 +74,40 @@
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=androidstudio" width="45" height="45" alt="AndroidStudio" />
       <br>Android
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="55" height="55" />
+      <br>Docker
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="55" height="55" />
+      <br>Javascript
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="55" height="55" />
+      <br>Typescript
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="55" height="55" />
+      <br>RestAPI
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="55" height="55" />
+      <br>MySQL
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="55" height="55" />
+      <br>Eslint
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="55" height="55" />
+      <br>Python
     </td>
   </tr>
 </table>
